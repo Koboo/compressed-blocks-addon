@@ -1,8 +1,8 @@
-package com.example
+package eu.koboo.nova.compressed.blocks
 
 import xyz.xenondevs.nova.addon.Addon
 
-object ExampleAddon : Addon() {
+object CompressedBlocksAddon : Addon() {
     
     override fun init() {
         // Called when the addon is initialized.

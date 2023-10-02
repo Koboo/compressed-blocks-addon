@@ -1,5 +1,7 @@
-# Nova-Addon-Template
-Template for creating Nova addons
+# Compressed Blocks (Nova Addon)
 
-# Create your own Nova addon
-Visit [our documentation](https://xenondevs.xyz/docs/nova/addon/) for a guide on how to create Nova addons
+This is an addon for the spigot mod framework "Nova", which adds compressed blocks to reduce chest storage.
+
+# Credits
+
+Inspiration and textures from [MrLoLf's compblocks](https://github.com/MrLoLf/compblocks)

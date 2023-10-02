@@ -1,8 +1,8 @@
 import org.gradle.configurationcache.extensions.capitalized
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
-group = "com.example" // TODO: Change this to your group
-version = "1.0-SNAPSHOT" // TODO: Change this to your addon version
+group = "eu.koboo.nova"
+version = "1.0-SNAPSHOT"
 
 val mojangMapped = project.hasProperty("mojang-mapped")
 
@@ -19,11 +19,11 @@ dependencies {
 
 addon {
     id.set(project.name)
-    name.set(project.name.capitalized())
+    name.set("Compressed-Blocks")
     version.set(project.version.toString())
     novaVersion.set(libs.versions.nova)
-    main.set("com.example.ExampleAddon") // TODO: Change this to your main class
-    authors.add("ExampleAuthor") // TODO: Set your list of authors
+    main.set("eu.koboo.nova.compressed.blocks.CompressedBlocksAddon") // TODO: Change this to your main class
+    authors.add("Koboo")
 }
 
 spigotRemap {

@@ -1,0 +1,7 @@
+{
+  "result": "minecraft:cobblestone",
+  "amount": 9,
+  "ingredients": {
+    "compressed_blocks:compressed_cobblestone_1x": 1
+  }
+}

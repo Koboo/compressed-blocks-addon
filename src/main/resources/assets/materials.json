@@ -1,0 +1,8 @@
+{
+  "compressed_cobblestone_1x": {
+    "item": "block/compressed_cobblestone_1x",
+    "block": {
+      "type": "solid"
+    }
+  }
+}

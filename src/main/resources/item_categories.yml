@@ -1,0 +1,6 @@
+compressed_blocks_category:
+  icon: compressed_blocks:compressed_cobblestone_1x
+  name: "menu.compressed_blocks.items.category.compressed_blocks_category"
+  priority: 1
+  items:
+    - compressed_blocks:compressed_cobblestone_1x

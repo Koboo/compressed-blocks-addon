@@ -1,0 +1,7 @@
+{
+  "result": "minecraft:stone",
+  "amount": 9,
+  "ingredients": {
+    "compressed_blocks:compressed_stone_1x": 1
+  }
+}

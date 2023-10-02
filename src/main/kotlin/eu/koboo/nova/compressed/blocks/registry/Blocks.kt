@@ -12,7 +12,7 @@ import xyz.xenondevs.nova.world.block.sound.SoundGroup
 @Init
 object Blocks : BlockRegistry by CompressedBlocksAddon.registry {
 
-    private val OPTIONS_COBBLESTONE_1X = BlockOptions(
+    private val OPTIONS_STONE = BlockOptions(
             3.0,
             VanillaToolCategories.PICKAXE,
             VanillaToolTiers.WOOD,
@@ -21,5 +21,13 @@ object Blocks : BlockRegistry by CompressedBlocksAddon.registry {
             Material.COBBLESTONE
     )
 
-    val COBBLESTONE_1X = block("compressed_cobblestone_1x").blockOptions(OPTIONS_COBBLESTONE_1X).register()
+    val COBBLESTONE_1X = block("compressed_cobblestone_1x").blockOptions(OPTIONS_STONE).register()
+    val COBBLESTONE_2X = block("compressed_cobblestone_2x").blockOptions(OPTIONS_STONE).register()
+    val COBBLESTONE_3X = block("compressed_cobblestone_3x").blockOptions(OPTIONS_STONE).register()
+    val COBBLESTONE_4X = block("compressed_cobblestone_4x").blockOptions(OPTIONS_STONE).register()
+
+    val STONE_1X = block("compressed_stone_1x").blockOptions(OPTIONS_STONE).register()
+    val STONE_2X = block("compressed_stone_2x").blockOptions(OPTIONS_STONE).register()
+    val STONE_3X = block("compressed_stone_3x").blockOptions(OPTIONS_STONE).register()
+    val STONE_4X = block("compressed_stone_4x").blockOptions(OPTIONS_STONE).register()
 }

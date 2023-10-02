@@ -1,0 +1,11 @@
+{
+  "result": "compressed_blocks:compressed_cobblestone_2x",
+  "shape": [
+    "ccc",
+    "ccc",
+    "ccc"
+  ],
+  "ingredients": {
+    "c": "compressed_blocks:compressed_cobblestone_1x"
+  }
+}

@@ -1,4 +1,11 @@
 {
   "menu.compressed_blocks.items.category.compressed_blocks_category": "Compressed Blocks",
-  "block..compressed_blocks.compressed_cobblestone_1x": "Compressed Cobblestone (1x)"
+  "block.compressed_blocks.compressed_cobblestone_1x": "Compressed Cobblestone (1x)",
+  "block.compressed_blocks.compressed_cobblestone_2x": "Compressed Cobblestone (2x)",
+  "block.compressed_blocks.compressed_cobblestone_3x": "Compressed Cobblestone (3x)",
+  "block.compressed_blocks.compressed_cobblestone_4x": "Compressed Cobblestone (4x)",
+  "block.compressed_blocks.compressed_stone_1x": "Compressed Stone (1x)",
+  "block.compressed_blocks.compressed_stone_2x": "Compressed Stone (2x)",
+  "block.compressed_blocks.compressed_stone_3x": "Compressed Stone (3x)",
+  "block.compressed_blocks.compressed_stone_4x": "Compressed Stone (4x)"
 }

@@ -4,3 +4,10 @@ compressed_blocks_category:
   priority: 1
   items:
     - compressed_blocks:compressed_cobblestone_1x
+    - compressed_blocks:compressed_cobblestone_2x
+    - compressed_blocks:compressed_cobblestone_3x
+    - compressed_blocks:compressed_cobblestone_4x
+    - compressed_blocks:compressed_stone_1x
+    - compressed_blocks:compressed_stone_2x
+    - compressed_blocks:compressed_stone_3x
+    - compressed_blocks:compressed_stone_4x

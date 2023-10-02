@@ -4,5 +4,47 @@
     "block": {
       "type": "solid"
     }
+  },
+  "compressed_cobblestone_2x": {
+    "item": "block/compressed_cobblestone_2x",
+    "block": {
+      "type": "solid"
+    }
+  },
+  "compressed_cobblestone_3x": {
+    "item": "block/compressed_cobblestone_3x",
+    "block": {
+      "type": "solid"
+    }
+  },
+  "compressed_cobblestone_4x": {
+    "item": "block/compressed_cobblestone_4x",
+    "block": {
+      "type": "solid"
+    }
+  },
+  "compressed_stone_1x": {
+    "item": "block/compressed_stone_1x",
+    "block": {
+      "type": "solid"
+    }
+  },
+  "compressed_stone_2x": {
+    "item": "block/compressed_stone_2x",
+    "block": {
+      "type": "solid"
+    }
+  },
+  "compressed_stone_3x": {
+    "item": "block/compressed_stone_3x",
+    "block": {
+      "type": "solid"
+    }
+  },
+  "compressed_stone_4x": {
+    "item": "block/compressed_stone_4x",
+    "block": {
+      "type": "solid"
+    }
   }
 }

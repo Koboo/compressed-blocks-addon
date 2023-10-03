@@ -4,4 +4,4 @@ This is an addon for the spigot mod framework "Nova", which adds compressed bloc
 
 # Credits
 
-Inspiration and textures from [MrLoLf's compblocks](https://github.com/MrLoLf/compblocks)
+Inspiration from [MrLoLf's compblocks](https://github.com/MrLoLf/compblocks)

@@ -1,0 +1,11 @@
+{
+  "result": "compressed_blocks:compressed_sand_2x",
+  "shape": [
+    "ccc",
+    "ccc",
+    "ccc"
+  ],
+  "ingredients": {
+    "c": "compressed_blocks:compressed_sand_1x"
+  }
+}

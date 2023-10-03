@@ -11,3 +11,11 @@ compressed_blocks_category:
     - compressed_blocks:compressed_stone_2x
     - compressed_blocks:compressed_stone_3x
     - compressed_blocks:compressed_stone_4x
+    - compressed_blocks:compressed_cobbled_deepslate_1x
+    - compressed_blocks:compressed_cobbled_deepslate_2x
+    - compressed_blocks:compressed_cobbled_deepslate_3x
+    - compressed_blocks:compressed_cobbled_deepslate_4x
+    - compressed_blocks:compressed_sand_1x
+    - compressed_blocks:compressed_sand_2x
+    - compressed_blocks:compressed_sand_3x
+    - compressed_blocks:compressed_sand_4x

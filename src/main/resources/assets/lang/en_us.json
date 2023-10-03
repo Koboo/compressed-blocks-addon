@@ -7,5 +7,13 @@
   "block.compressed_blocks.compressed_stone_1x": "Compressed Stone (1x)",
   "block.compressed_blocks.compressed_stone_2x": "Compressed Stone (2x)",
   "block.compressed_blocks.compressed_stone_3x": "Compressed Stone (3x)",
-  "block.compressed_blocks.compressed_stone_4x": "Compressed Stone (4x)"
+  "block.compressed_blocks.compressed_stone_4x": "Compressed Stone (4x)",
+  "block.compressed_blocks.compressed_cobbled_deepslate_1x": "Compressed Cobbled Deepslate (1x)",
+  "block.compressed_blocks.compressed_cobbled_deepslate_2x": "Compressed Cobbled Deepslate (2x)",
+  "block.compressed_blocks.compressed_cobbled_deepslate_3x": "Compressed Cobbled Deepslate (3x)",
+  "block.compressed_blocks.compressed_cobbled_deepslate_4x": "Compressed Cobbled Deepslate (4x)",
+  "block.compressed_blocks.compressed_sand_1x": "Compressed Sand (1x)",
+  "block.compressed_blocks.compressed_sand_2x": "Compressed Sand (2x)",
+  "block.compressed_blocks.compressed_sand_3x": "Compressed Sand (3x)",
+  "block.compressed_blocks.compressed_sand_4x": "Compressed Sand (4x)"
 }

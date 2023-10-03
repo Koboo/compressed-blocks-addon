@@ -1,0 +1,6 @@
+{
+    "parent": "nova:block/block",
+    "textures": {
+        "0": "compressed_blocks:block/compressed_sand_1x"
+    }
+}

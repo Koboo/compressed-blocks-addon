@@ -1,0 +1,7 @@
+{
+  "result": "minecraft:sand",
+  "amount": 9,
+  "ingredients": {
+    "compressed_blocks:compressed_sand_1x": 1
+  }
+}

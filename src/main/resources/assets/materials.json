@@ -1,18 +1,66 @@
 {
-  "compressed_cobblestone_1x": "block/compressed_cobblestone_1x",
-  "compressed_cobblestone_2x": "block/compressed_cobblestone_2x",
-  "compressed_cobblestone_3x": "block/compressed_cobblestone_3x",
-  "compressed_cobblestone_4x": "block/compressed_cobblestone_4x",
-  "compressed_stone_1x": "block/compressed_stone_1x",
-  "compressed_stone_2x": "block/compressed_stone_2x",
-  "compressed_stone_3x": "block/compressed_stone_3x",
-  "compressed_stone_4x": "block/compressed_stone_4x",
-  "compressed_cobbled_deepslate_1x": "block/compressed_cobbled_deepslate_1x",
-  "compressed_cobbled_deepslate_2x": "block/compressed_cobbled_deepslate_2x",
-  "compressed_cobbled_deepslate_3x": "block/compressed_cobbled_deepslate_3x",
-  "compressed_cobbled_deepslate_4x": "block/compressed_cobbled_deepslate_4x",
-  "compressed_sand_1x": "block/compressed_sand_1x",
-  "compressed_sand_2x": "block/compressed_sand_2x",
-  "compressed_sand_3x": "block/compressed_sand_3x",
-  "compressed_sand_4x": "block/compressed_sand_4x"
+  "compressed_cobblestone_1x": {
+    "item": "block/compressed_cobblestone_1x",
+    "block": { "type": "solid" }
+  },
+  "compressed_cobblestone_2x": {
+    "item": "block/compressed_cobblestone_2x",
+    "block": { "type": "solid" }
+  },
+  "compressed_cobblestone_3x": {
+    "item": "block/compressed_cobblestone_3x",
+    "block": { "type": "solid" }
+  },
+  "compressed_cobblestone_4x": {
+    "item": "block/compressed_cobblestone_4x",
+    "block": { "type": "solid" }
+  },
+  "compressed_stone_1x": {
+    "item": "block/compressed_stone_1x",
+    "block": { "type": "solid" }
+  },
+  "compressed_stone_2x": {
+    "item": "block/compressed_stone_2x",
+    "block": { "type": "solid" }
+  },
+  "compressed_stone_3x": {
+    "item": "block/compressed_stone_3x",
+    "block": { "type": "solid" }
+  },
+  "compressed_stone_4x": {
+    "item": "block/compressed_stone_4x",
+    "block": { "type": "solid" }
+  },
+  "compressed_cobbled_deepslate_1x": {
+    "item": "block/compressed_cobbled_deepslate_1x",
+    "block": { "type": "solid" }
+  },
+  "compressed_cobbled_deepslate_2x": {
+    "item": "block/compressed_cobbled_deepslate_2x",
+    "block": { "type": "solid" }
+  },
+  "compressed_cobbled_deepslate_3x": {
+    "item": "block/compressed_cobbled_deepslate_3x",
+    "block": { "type": "solid" }
+  },
+  "compressed_cobbled_deepslate_4x": {
+    "item": "block/compressed_cobbled_deepslate_4x",
+    "block": { "type": "solid" }
+  },
+  "compressed_sand_1x": {
+    "item": "block/compressed_sand_1x",
+    "block": { "type": "solid" }
+  },
+  "compressed_sand_2x": {
+    "item": "block/compressed_sand_2x",
+    "block": { "type": "solid" }
+  },
+  "compressed_sand_3x": {
+    "item": "block/compressed_sand_3x",
+    "block": { "type": "solid" }
+  },
+  "compressed_sand_4x": {
+    "item": "block/compressed_sand_4x",
+    "block": { "type": "solid" }
+  }
 }
